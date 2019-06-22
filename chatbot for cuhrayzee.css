@@ -1,0 +1,42 @@
+body{
+ background-image:url("cuh2.jpg");
+ background-repeat:no-repeat;
+ background-position:center;
+ background-color:black;
+}
+
+.home{
+    border:2px groove blue;
+    background-color:white;
+    color:blue;
+    text-decoration:none;
+}
+
+h1{
+ color:white;
+ background-color:black;
+ font-size:60pt;
+ width:500px;
+ }
+
+#box{
+    border:2px groove red;
+    height:300px;
+    width:500px;
+    background-color:black;
+}
+
+.ask{
+    color:white;
+    font-size:30pt;
+}
+
+#chatbot{
+    border:2px groove red;
+    height:30px;
+    width:300px;
+}
+
+.button{
+    padding:50px;
+}
